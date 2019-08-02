@@ -1,12 +1,26 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+
+import NavBar from './components/navbar';
+import AboutUs from  './components/about-us';
+import ContactUs from './components/contact-us';
+
 import './css/style.css';
 
 class App extends Component {
   render() {
   return (
-    <div className="App">
-      
-    </div>
+    <BrowserRouter>
+      <div className="app">
+        <NavBar />
+
+        <Switch>
+          <Route exact path="/" />
+          <Route exact path="/about-us" render={AboutUs} />
+          <Route exact path="/contact-us" render={ContactUs} />
+        </Switch>
+      </div>
+      </BrowserRouter>
   );
   }
 }
