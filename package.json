@@ -2,7 +2,9 @@
   "name": "wigan-coding-website",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://ruzla.github.io/wigan-coders-website",
   "dependencies": {
+    "firebase": "^6.3.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
@@ -16,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "compile:sass":"node-sass src/sass/main.scss src/css/style.css -w"
+    "compile:sass": "node-sass src/sass/main.scss src/css/style.css -w"
   },
   "eslintConfig": {
     "extends": "react-app"
