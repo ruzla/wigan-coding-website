@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import wclogo from '../img/wclogogradient2small.png';
+import wclogo from '../img/wclogocoloursmall.png';
 
 const NavBar = () => (
     <div className="navBar">
