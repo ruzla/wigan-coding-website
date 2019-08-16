@@ -49,20 +49,26 @@ body {
     text-decoration: none; }
 
 .navBar {
+  display: flex;
   text-decoration: none;
   font-size: 3.2rem;
   text-transform: uppercase;
   font-weight: 400;
   background-image: linear-gradient(to right, #969696, #1c1c1c);
   color: #fff;
-  letter-spacing: .2rem; }
-  .navBar .title {
-    padding-left: 1rem; }
+  letter-spacing: .2rem;
+  height: 100%; }
+  .navBar .nav-logo {
+    padding-left: 1rem;
+    padding-top: 1rem; }
   .navBar .nav {
     float: right;
-    font-size: 2rem; }
+    font-size: 2rem;
+    margin-left: auto; }
     .navBar .nav .item {
+      display: inline-block;
       padding: 2rem;
+      padding-bottom: 5rem;
       height: 5rem; }
       .navBar .nav .item:hover {
         background-color: #4a4a4a; }

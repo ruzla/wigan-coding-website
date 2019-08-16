@@ -11,6 +11,7 @@ body {
       }
 }
 .navBar {
+    display: flex;
     text-decoration: none;
     font-size: 3.2rem;
     text-transform: uppercase;
@@ -18,15 +19,21 @@ body {
     background-image: linear-gradient(to right, $color-primary-light , $color-primary-dark);
     color: $color-white;
     letter-spacing: .2rem;
-
-    .title {
+    height: 100%;
+    
+    .nav-logo {
         padding-left: 1rem;
+        padding-top: 1rem;
     }
+    
     .nav{
         float: right;
         font-size: 2rem;
+        margin-left: auto;
         .item {
+            display: inline-block;            
             padding: 2rem;
+            padding-bottom: 5rem;
             height: 5rem;
               &:hover {
                 background-color: #4a4a4a;
