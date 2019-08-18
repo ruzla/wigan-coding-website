@@ -7,8 +7,8 @@ const MainImage = () => (
             </div> */}
             <div class="header__text-box">
                 <h1 class="heading-primary">
-                    <span class="heading-primary--main">Who will</span>
-                    <span class="heading-primary--sub">You become...</span>
+                    <span class="heading-primary--main">Wigan Coders</span>
+                    <span class="heading-primary--sub">Who will you become...</span>
                 </h1>
                 {/* <a href='#' class="btn btn--white btn--animated">Discover</a> */}
             </div>

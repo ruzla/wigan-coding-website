@@ -1,6 +1,8 @@
 import React from 'react';
 
-import stackImage from '../img/stack_logo.png';
+import htmlLogo from '../img/html-logo.jpg';
+import cssLogo from '../img/CSS-logo.jpg';
+import jsLogo from '../img/JS-logo.jpg';
 
 const Stack = () => (
     <div className="tech-stack">
@@ -8,9 +10,10 @@ const Stack = () => (
         <p>stack heading</p>
       </div>
 
-      <div className="fundamentals-image">
-        <p>fundamentals image</p>  
-        <img src={ stackImage } alt="stack_image"/>
+      <div className="fundamentals-image">  
+        <img src={ htmlLogo } alt="html-logo"/>
+        <img src={ cssLogo } alt="css-logo" />
+        <img src={ jsLogo } alt="js-logo"/>
       </div>
         
       <div className="fundamentals-text">
