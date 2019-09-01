@@ -1,9 +1,5 @@
 import React from 'react';
 
-import htmlLogo from '../img/html-logo.jpg';
-import cssLogo from '../img/CSS-logo.jpg';
-import jsLogo from '../img/JS-logo.jpg';
-
 const Stack = () => (
    <div> 
     <div class="u-center-text u-margin-bottom-big">
