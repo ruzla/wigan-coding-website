@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.041df7a5.chunk.css",
-    "main.js": "/static/js/main.68ac72cb.chunk.js",
-    "main.js.map": "/static/js/main.68ac72cb.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.e6d5bf7e.chunk.js": "/static/js/2.e6d5bf7e.chunk.js",
-    "static/js/2.e6d5bf7e.chunk.js.map": "/static/js/2.e6d5bf7e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5b96d42d0b96f769191808daba29060f.js": "/precache-manifest.5b96d42d0b96f769191808daba29060f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.041df7a5.chunk.css.map": "/static/css/main.041df7a5.chunk.css.map",
-    "static/media/style.css": "/static/media/macbook.dabcb96f.jpg"
+    "main.css": "/wigan-coders-website/static/css/main.82cf2135.chunk.css",
+    "main.js": "/wigan-coders-website/static/js/main.cfa5bbc5.chunk.js",
+    "main.js.map": "/wigan-coders-website/static/js/main.cfa5bbc5.chunk.js.map",
+    "runtime~main.js": "/wigan-coders-website/static/js/runtime~main.6bf9ee87.js",
+    "runtime~main.js.map": "/wigan-coders-website/static/js/runtime~main.6bf9ee87.js.map",
+    "static/js/2.23aee8b8.chunk.js": "/wigan-coders-website/static/js/2.23aee8b8.chunk.js",
+    "static/js/2.23aee8b8.chunk.js.map": "/wigan-coders-website/static/js/2.23aee8b8.chunk.js.map",
+    "index.html": "/wigan-coders-website/index.html",
+    "precache-manifest.979f885ba014c6e33d4f182883bd09bf.js": "/wigan-coders-website/precache-manifest.979f885ba014c6e33d4f182883bd09bf.js",
+    "service-worker.js": "/wigan-coders-website/service-worker.js",
+    "static/css/main.82cf2135.chunk.css.map": "/wigan-coders-website/static/css/main.82cf2135.chunk.css.map",
+    "static/media/style.css": "/wigan-coders-website/static/media/macbook.dabcb96f.jpg"
   }
 }
